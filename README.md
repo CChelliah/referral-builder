@@ -17,7 +17,7 @@ Backend Node/MongDB
 
 Frontend 
 
-1. Navigate into '/referral-builder/frontEnd/referral-builder/'
+1. Navigate into 'referral-builder/frontEnd/referral-builder/'
 2. run npm install
 3. run npm start
 4. this will create a React client on Port: 3000 
