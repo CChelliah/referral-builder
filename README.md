@@ -5,7 +5,7 @@
 In order to use this project you will need to clone this repo and setup React and Node. You will need the NPM package. 
 
 
-Backend Node/MongDB
+Backend Node/MongoDB
 
 
 1. Navigate into 'referral-builder/backEnd/referral-builder-backend/'
