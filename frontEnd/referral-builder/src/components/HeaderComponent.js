@@ -6,9 +6,9 @@ class Header extends Component {
   render () {
     return (
       <>
-        <Navbar light expand='xl'>
+        <Navbar light expand="xs">
           <div className='container header'>
-            <Nav navbar>
+            <Nav className="mr-auto" navbar>
               <NavItem>
                 <NavLink className='nav-link' to='/home'>
                   <span className='fa fa-home fa-lg' />Add

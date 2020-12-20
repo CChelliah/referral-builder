@@ -19,8 +19,9 @@ class Main extends Component {
     return (
       <div className='container'>
         <Header />
-        <Route path='/home' component={Home} user1={users} />
+        <Route path='/home' component={Home} />
         <Route path='/display' component={Display} />
+        <Redirect to='/home' />
       </div>
     )
   }
