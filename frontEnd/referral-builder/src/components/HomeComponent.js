@@ -26,7 +26,6 @@ class Home extends Component {
   }
 
   handleSubmit (event) {
-    alert(JSON.stringify(this.state))
     console.log(JSON.stringify(this.state))
 
     fetch('http://0.0.0.0:5000/', {
